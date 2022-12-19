@@ -1,3 +1,3 @@
 # PerformanceTests
 
-Performance Tests suing Jmeter
+Performance Tests using Jmeter
